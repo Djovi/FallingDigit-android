@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Falling Digits</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1437494695589782/8016330952</string>
+    <!--   <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string> -->
+    <string name="native_ad_unit_id">ca-app-pub-1437494695589782/8596583752</string>
+    <string name="interstitial_full_screen"></string>
+	<string name="facebook_app_id">941047776014405</string>
+</resources>

@@ -1,0 +1,41 @@
+ {  
+     com.badlogic.gdx.graphics.g2d.BitmapFont: {  
+      normaltext: { file: text.fnt },  
+      titletext: { file: text.fnt },  
+     },  
+     com.badlogic.gdx.graphics.Color: {  
+      red: { a: 1, b: 0, g: 0, r: 1 },  
+      green: { a: 1, b: 0, g: 1, r: 0 },  
+      blue: { a: 1, b: 1, g: 0, r: 0 },  
+      white: { hex: "FFFFFF" },  
+      black: { hex: "00ff05" } 
+     },  
+	  
+	 com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	 buynow:{ down: imagems, up: imagems, font: normaltext, fontColor: white },
+	 epin: { down: epin, up: epin, font: normaltext, fontColor: white },
+	 rage: { down: rage, up: rage, font: normaltext, fontColor: white },
+	 royalrage: { down: royalrage, up: royalrage, font: normaltext, fontColor: white },
+	 clse: { down: close, up: close, font: normaltext, fontColor: white },
+	 play: { down: video-play-xxl, up: video-play-xxl, font: normaltext, fontColor: white },
+	rank: { down: class, up: class, font: normaltext, fontColor: white },
+	default: { down: button-down, up: button, font: normaltext, fontColor: white },
+	tab: { down: button-down, up: button, font: normaltext, fontColor: white },
+	toggle: { down: button-down, up: button, checked: button-down, font: normaltext, fontColor: white, downFontColor: black }
+	share:{ down: button-disabled, up: button-disabled, font: normaltext, fontColor: white },
+	note:{ down: button-disabled, up: button-disabled, font: normaltext, fontColor: white }
+},
+     com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {  
+      default: { font: normaltext, fontColor: white },  
+      normal-text: { font: normaltext, fontColor: white },  
+      title-text: { font: titletext, fontColor: black },  
+	  trytext: { font: titletext, fontColor: green }
+     },   
+	 com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {  
+     default: {  titleFont: titletext, background: button-down, titleFontColor: white }  
+ },
+ com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+default: {  font: normaltext, background: button-down, fontColor: white }  
+} 
+	 
+   }  

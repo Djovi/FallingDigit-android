@@ -1,0 +1,78 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+royalrage
+  rotate: false
+  xy: 1, 24
+  size: 80, 103
+  orig: 80, 103
+  offset: 0, 0
+  index: -1
+imagems
+  rotate: false
+  xy: 83, 83
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 83, 20
+  size: 67, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+rage
+  rotate: false
+  xy: 187, 61
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+epin
+  rotate: false
+  xy: 151, 1
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+video-play-xxl
+  rotate: false
+  xy: 253, 71
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+class
+  rotate: false
+  xy: 311, 77
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+button-disabled
+  rotate: false
+  xy: 363, 79
+  size: 48, 48
+  split: 8, 8, 10, 9
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+button-down
+  rotate: false
+  xy: 413, 79
+  size: 48, 48
+  split: 9, 9, 9, 11
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 463, 79
+  size: 48, 48
+  split: 6, 7, 7, 7
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
